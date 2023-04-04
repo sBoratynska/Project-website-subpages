@@ -145,6 +145,20 @@ h2 {
 	text-transform: uppercase;
 }
 
+table {
+	border-spacing: 0;
+}
+th {
+	background-color: hsl(0, 0%, 68%);
+	color:#333;
+	border: 2px solid #fff;
+}
+
+td {
+	background-color: #d3d1d1;
+	border: 1px solid #fff;
+}
+
 /* kontakt  */
 .contact-info {
 	text-align: center;
